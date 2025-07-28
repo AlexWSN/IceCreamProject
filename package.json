@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "ice-cream-project",
   "version": "2.0.0",
-  "description": "",
-  "homepage": "https://github.com/Apophis96/Team-4-ice-cream",
+  "description": "Landing page for an ice cream brand, adapted and extended by Alexandra Sasu.",
+  "homepage": "https://alexwsn.github.io/IceCreamProject",
   "scripts": {
     "start": "parcel --no-cache src/*.html",
-    "build": "parcel build src/*.html --public-url /Team-4-ice-cream/"
+    "build": "parcel build src/*.html --public-url /IceCreamProject/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Apophis96/Team-4-ice-cream"
+    "url": "git+https://github.com/AlexWSN/IceCreamProject.git"
   },
   "keywords": [],
-  "author": "Mario Eduard Ilie <marioeduard96@gmail.com>",
+  "author": "Alexandra Sasu <alexandra@email.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Apophis96/Team-4-ice-cream/issues"
+    "url": "https://github.com/AlexWSN/IceCreamProject/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
